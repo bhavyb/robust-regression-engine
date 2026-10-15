@@ -11,7 +11,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![Best R²](https://img.shields.io/badge/Best%20R%C2%B2-0.936-2ea44f)
 
-**[🚀 Live App](https://robust-regression-engine-bacwdre2fkjonguvkecdse.streamlit.app/#robust-regression-engine)** &nbsp;|&nbsp; **[🎥 Video Explanation](PASTE_VIDEO_LINK_HERE)** &nbsp;|&nbsp; **[📓 Notebook](Robust_Regression_Engine.ipynb)** &nbsp;|&nbsp; **[📄 Theory (PDF)](Robust_Regression_Engine_Theory.pdf)**
+**[🚀 Live App](https://robust-regression-engine-bacwdre2fkjonguvkecdse.streamlit.app/#robust-regression-engine)** &nbsp;|&nbsp; **[🎥 Video Explanation](https://drive.google.com/drive/folders/1pbV8M0-k7Npzu5pNcS225bKc2e65EK2T)** &nbsp;|&nbsp; **[📓 Notebook](Robust_Regression_Engine.ipynb)** &nbsp;|&nbsp; **[📄 Theory (PDF)](Robust_Regression_Engine_Theory.pdf)**
 
 </div>
 

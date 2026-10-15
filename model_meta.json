@@ -1,0 +1,86 @@
+{
+  "best_model": "SVR RBF (tuned)",
+  "features": [
+    "area_sqft",
+    "bedrooms",
+    "bathrooms",
+    "location_score",
+    "property_age",
+    "distance_city_km",
+    "near_school",
+    "near_metro",
+    "crime_rate_index",
+    "sale_year"
+  ],
+  "target_unit": "Lakh INR (1 Lakh = 100000 INR)",
+  "test_metrics": {
+    "MSE": 516.9819208910033,
+    "MAE": 16.646783700651554,
+    "RMSE": 22.73723643917623,
+    "R2": 0.935806688521717
+  },
+  "feature_ranges": {
+    "area_sqft": [
+      500.0,
+      3776.0,
+      1700.5
+    ],
+    "bedrooms": [
+      1.0,
+      7.0,
+      3.0
+    ],
+    "bathrooms": [
+      1.0,
+      6.0,
+      3.0
+    ],
+    "location_score": [
+      1.0,
+      10.0,
+      6.5
+    ],
+    "property_age": [
+      1.0,
+      80.0,
+      20.0
+    ],
+    "distance_city_km": [
+      1.0,
+      38.7,
+      13.0
+    ],
+    "near_school": [
+      0.0,
+      1.0,
+      1.0
+    ],
+    "near_metro": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "crime_rate_index": [
+      0.5,
+      12.0,
+      4.22
+    ],
+    "sale_year": [
+      2010.0,
+      2023.0,
+      2016.0
+    ]
+  },
+  "importance": {
+    "area_sqft": 0.5839764175418896,
+    "location_score": 0.1894316070934621,
+    "bedrooms": 0.14126723752586717,
+    "bathrooms": 0.03100587234928675,
+    "distance_city_km": 0.025770641982699804,
+    "property_age": 0.011426356094988724,
+    "crime_rate_index": 0.008219768274301972,
+    "sale_year": 0.0059377904496788585,
+    "near_metro": 0.0015859468939278315,
+    "near_school": 0.0013783617938971935
+  }
+}

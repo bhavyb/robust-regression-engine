@@ -1,0 +1,5 @@
+Strategy,Folds,RMSE_mean,RMSE_std,MAE_mean,R2_mean
+K-Fold (k=5),5,24.9512,0.8898,19.0663,0.9163
+Stratified K-Fold (binned target),5,24.8988,0.7881,19.0315,0.9168
+Time Series Split (by sale_year),5,24.8503,0.9188,18.9482,0.9167
+Leave-One-Out (LOOCV),3040,24.923,,19.0387,0.9167
